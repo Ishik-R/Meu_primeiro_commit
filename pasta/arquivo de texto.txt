@@ -1,3 +1,7 @@
 ARQUIVO DE TESTE
 
 Olá, bem vindo ao mundo.
+
+Aqui está uma nova alteração para testar conflitos!
+
+:D
